@@ -1,4 +1,4 @@
-# InfernoLighting-EXC
+# InfernoLighting-EXC v0.3
 
 96% UNC !
 
