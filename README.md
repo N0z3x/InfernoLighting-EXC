@@ -1,6 +1,6 @@
-# InfernoLighting-EXC v0.3
+# InfernoLighting-EXC v0.3 [WIP]
 
-96% UNC !
+
 
 UPDATES EVERY 1-2 WEEKS !
 
